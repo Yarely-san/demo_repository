@@ -9,6 +9,9 @@ public ClaseA
     x=0;
     y=0;
     codigo= " ";
-    
+ 
+  }
+  public void mensaje(){
+	  System.out.println("hola");
   }
 }
